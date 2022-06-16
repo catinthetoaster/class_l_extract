@@ -1,0 +1,5 @@
+# List of input/precision parameters passed
+# but not used (just for info)
+#
+spectra_verbose = 1
+nonlinear_verbose = 1
